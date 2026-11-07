@@ -1,0 +1,10 @@
+/.impeccable/
+/PRODUCT.md
+/DESIGN.md
+/AGENTS.md
+/maintenance/
+/node_modules/
+/.cache/
+*.log
+*.zip
+*.bundle
