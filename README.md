@@ -4,7 +4,7 @@ Static English-language project, support and privacy pages for BTr-RJ and RedBar
 
 ## Hosting
 
-GitHub Pages publishes the `docs` directory of the `main` branch. The initial address is https://btr-rj.github.io/. No custom domain is claimed until registration and DNS configuration are confirmed.
+GitHub Pages publishes the `docs` directory of the `main` branch. The custom domain is https://btr-recomps.com.br/; `docs/CNAME` binds it to this site. The domain was verified by the owner through the GitHub Pages DNS challenge. Hosting DNS records and HTTPS certificate issuance must also complete before the custom address is available. The original GitHub Pages address is https://btr-rj.github.io/.
 
 ## Pages
 
